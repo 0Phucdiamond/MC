@@ -30,7 +30,7 @@ glintSpeed:0.5
 glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
-gamma:0.5
+gamma:1.0
 renderDistance:6
 simulationDistance:6
 entityDistanceScaling:1.0
@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["fabric","minecraft:supporteatinganimation"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","file/Faithless1.20.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:vi_vn
@@ -68,7 +68,7 @@ useNativeTransport:true
 mainHand:"right"
 attackIndicator:1
 narrator:0
-tutorialStep:find_tree
+tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
