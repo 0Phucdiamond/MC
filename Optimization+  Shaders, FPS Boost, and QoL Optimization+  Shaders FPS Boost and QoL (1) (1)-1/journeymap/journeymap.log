@@ -41,4 +41,7 @@ CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.9.9, ve
 [14:12:22] [Render thread/INFO] [ChatLog] JourneyMap: Press [J]
 [14:12:22] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\Administrator\AppData\Roaming\.minecraft\versions\Optimization+  Shaders, FPS Boost, and QoL Optimization+  Shaders FPS Boost and QoL (1) (1)-1\journeymap\data\sp\Th? gi?i m?i\waypoints
 [14:12:23] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\Administrator\AppData\Roaming\.minecraft\versions\Optimization+  Shaders, FPS Boost, and QoL Optimization+  Shaders FPS Boost and QoL (1) (1)-1\journeymap\data\sp\Th? gi?i m?i\overworld. Memory: 2048MB total, 430MB free 
+<<<<<<< HEAD
 [14:35:02] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Administrator\AppData\Roaming\.minecraft\versions\Optimization+  Shaders, FPS Boost, and QoL Optimization+  Shaders FPS Boost and QoL (1) (1)-1\journeymap\data\mp\offline\minecraft:overworld
+=======
+>>>>>>> 8882ee37060c287def70e8ce7aab35e8c0485b34
