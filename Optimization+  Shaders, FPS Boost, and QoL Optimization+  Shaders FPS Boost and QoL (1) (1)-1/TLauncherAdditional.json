@@ -12,6 +12,116 @@
       "mods": [
         {
           "stateGameElement": "active",
+          "id": 488090,
+          "name": "MidnightLib",
+          "favorite": false,
+          "version": {
+            "id": 4576371,
+            "updateDate": 1686258000000,
+            "metadata": {
+              "sha1": "7301b84a6b0a99988ce898148a9bbd632cfe220b",
+              "size": 59752,
+              "path": "mods/midnightlib-fabric-1.4.1.jar",
+              "url": "/mods/488090/4576371/midnightlib-fabric-1.4.1.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 531351,
+          "name": "Continuity",
+          "favorite": false,
+          "version": {
+            "id": 4580976,
+            "updateDate": 1686430800000,
+            "metadata": {
+              "sha1": "c5157819671612384834730a877eec5c484b5cf9",
+              "size": 1143994,
+              "path": "mods/continuity-3.0.0-beta.2+1.20.jar",
+              "url": "/mods/531351/4580976/continuity-3.0.0-beta.2+1.20.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 535489,
+          "name": "Sound Physics Remastered",
+          "favorite": false,
+          "version": {
+            "id": 4584319,
+            "updateDate": 1686603600000,
+            "metadata": {
+              "sha1": "a17a91402d2d9f39398be01b4b995d81690478a5",
+              "size": 127412,
+              "path": "mods/soundphysics-fabric-1.20.1-1.1.1.jar",
+              "url": "/mods/535489/4584319/soundphysics-fabric-1.20.1-1.1.1.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 546670,
+          "name": "Essential Mod",
+          "favorite": false,
+          "version": {
+            "id": 4582788,
+            "updateDate": 1686517200000,
+            "metadata": {
+              "sha1": "243cc09af5c0c0303ef197021e866eff281b1667",
+              "size": 251130,
+              "path": "mods/Essential-fabric_1-20-1.jar",
+              "url": "/mods/546670/4582788/Essential-fabric_1-20-1.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 851657,
+          "name": "Controllable (Fabric)",
+          "favorite": false,
+          "version": {
+            "id": 4592466,
+            "updateDate": 1686949200000,
+            "metadata": {
+              "sha1": "6833f1bb80406d3d4de3cd5e379bff545356ae32",
+              "size": 16579155,
+              "path": "mods/controllable-fabric-1.20.1-0.20.2.jar",
+              "url": "/mods/851657/4592466/controllable-fabric-1.20.1-0.20.2.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
           "id": 433760,
           "name": "Not Enough Animations",
           "favorite": false,
@@ -56,127 +166,17 @@
         },
         {
           "stateGameElement": "active",
-          "id": 667391,
-          "name": "Framework (Fabric)",
+          "id": 579192,
+          "name": "Farsight [Fabric]",
           "favorite": false,
           "version": {
-            "id": 4613817,
-            "updateDate": 1687956570000,
+            "id": 4595154,
+            "updateDate": 1687035600000,
             "metadata": {
-              "sha1": "ee725be9e788dc24d4a99e74dc848381fbd5b082",
-              "size": 506605,
-              "path": "mods/framework-fabric-1.20.1-0.6.6.jar",
-              "url": "/mods/667391/4613817/framework-fabric-1.20.1-0.6.6.jar"
-            },
-            "available": false
-          },
-          "userInstall": false,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 325471,
-          "name": "Inventory Sorting",
-          "favorite": false,
-          "version": {
-            "id": 4597704,
-            "updateDate": 1687208400000,
-            "metadata": {
-              "sha1": "19b4af69600fc940112f36a3256d492670d8d4c5",
-              "size": 222894,
-              "path": "mods/InventorySorter-1.9.0-1.20.jar",
-              "url": "/mods/325471/4597704/InventorySorter-1.9.0-1.20.jar"
-            },
-            "available": false
-          },
-          "userInstall": false,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 521480,
-          "name": "Skin Layers 3D (FabricForge)",
-          "favorite": false,
-          "version": {
-            "id": 4573672,
-            "updateDate": 1686171600000,
-            "metadata": {
-              "sha1": "34556f41a518682c305625a18b1bb14b4417d1b4",
-              "size": 439280,
-              "path": "mods/3dskinlayers-fabric-1.5.3-mc1.20.jar",
-              "url": "/mods/521480/4573672/3dskinlayers-fabric-1.5.3-mc1.20.jar"
-            },
-            "available": false
-          },
-          "userInstall": false,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 393563,
-          "name": "Blur (Fabric)",
-          "favorite": false,
-          "version": {
-            "id": 4578291,
-            "updateDate": 1686344400000,
-            "metadata": {
-              "sha1": "3a0811af7f425daab896fbfc38898a22e7af39cf",
-              "size": 164085,
-              "path": "mods/blur-3.1.0.jar",
-              "url": "/mods/393563/4578291/blur-3.1.0.jar"
-            },
-            "available": false
-          },
-          "userInstall": false,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 454372,
-          "name": "SuperMartijn642's Core Lib",
-          "favorite": false,
-          "version": {
-            "id": 4573602,
-            "updateDate": 1686171600000,
-            "metadata": {
-              "sha1": "5f91cb72bc1af6936c9f9d12227302a684b9525a",
-              "size": 506204,
-              "path": "mods/supermartijn642corelib-1.1.9-fabric-mc1.20.jar",
-              "url": "/mods/454372/4573602/supermartijn642corelib-1.1.9-fabric-mc1.20.jar"
-            },
-            "available": false
-          },
-          "userInstall": false,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 667299,
-          "name": "YetAnotherConfigLib",
-          "favorite": false,
-          "version": {
-            "id": 4592687,
-            "updateDate": 1686949200000,
-            "metadata": {
-              "sha1": "c1c8904d658393871840d19871238416793f661b",
-              "size": 796708,
-              "path": "mods/yet-another-config-lib-fabric-3.0.2+1.20.jar",
-              "url": "/mods/667299/4592687/yet-another-config-lib-fabric-3.0.2+1.20.jar"
+              "sha1": "fcc303ad8d7b937e175f1dec2e74f5a4bbc5389f",
+              "size": 373202,
+              "path": "mods/farsight-fabric-1.20.1-3.7.jar",
+              "url": "/mods/579192/4595154/farsight-fabric-1.20.1-3.7.jar"
             },
             "available": false
           },
@@ -210,94 +210,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 348521,
-          "name": "Cloth Config API (FabricForgeNeoForge)",
-          "favorite": false,
-          "version": {
-            "id": 4573053,
-            "updateDate": 1686171600000,
-            "metadata": {
-              "sha1": "338b0968fb47460f2a1fc2d003d3f2a32d1b0c31",
-              "size": 1147729,
-              "path": "mods/cloth-config-11.0.99-fabric.jar",
-              "url": "/mods/348521/4573053/cloth-config-11.0.99-fabric.jar"
-            },
-            "available": false
-          },
-          "userInstall": false,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 254284,
-          "name": "AmbientSounds 5",
-          "favorite": false,
-          "version": {
-            "id": 4605670,
-            "updateDate": 1687534474000,
-            "metadata": {
-              "sha1": "ab0590688ada9868ffb4a180f5b8da34aaccf938",
-              "size": 78577249,
-              "path": "mods/AmbientSounds_FABRIC_v5.2.20_mc1.20.1.jar",
-              "url": "/mods/254284/4605670/AmbientSounds_FABRIC_v5.2.20_mc1.20.1.jar"
-            },
-            "available": false
-          },
-          "userInstall": false,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 623800,
-          "name": "Dynamic Crosshair",
-          "favorite": false,
-          "version": {
-            "id": 4576177,
-            "updateDate": 1686258000000,
-            "metadata": {
-              "sha1": "a8c3feacafba7ac3bc793332fd72191e9a0abcce",
-              "size": 339684,
-              "path": "mods/dynamiccrosshair-7.0.2+1.20-fabric.jar",
-              "url": "/mods/623800/4576177/dynamiccrosshair-7.0.2+1.20-fabric.jar"
-            },
-            "available": false
-          },
-          "userInstall": false,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 851657,
-          "name": "Controllable (Fabric)",
-          "favorite": false,
-          "version": {
-            "id": 4592466,
-            "updateDate": 1686949200000,
-            "metadata": {
-              "sha1": "6833f1bb80406d3d4de3cd5e379bff545356ae32",
-              "size": 16579155,
-              "path": "mods/controllable-fabric-1.20.1-0.20.2.jar",
-              "url": "/mods/851657/4592466/controllable-fabric-1.20.1-0.20.2.jar"
-            },
-            "available": false
-          },
-          "userInstall": false,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
           "id": 417645,
           "name": "Just Enough Professions (JEP)",
           "favorite": false,
@@ -320,17 +232,17 @@
         },
         {
           "stateGameElement": "active",
-          "id": 448233,
-          "name": "Entity Culling FabricForge",
+          "id": 482160,
+          "name": "Boat Item View",
           "favorite": false,
           "version": {
-            "id": 4573623,
-            "updateDate": 1686171600000,
+            "id": 4590983,
+            "updateDate": 1686862800000,
             "metadata": {
-              "sha1": "cf43e7a58fb62f75d664cce1b14a6064774e6547",
-              "size": 57722,
-              "path": "mods/entityculling-fabric-1.6.2-mc1.20.jar",
-              "url": "/mods/448233/4573623/entityculling-fabric-1.6.2-mc1.20.jar"
+              "sha1": "c71b4fa8fd4ca580f39f94f278c1864c3befca51",
+              "size": 1031662,
+              "path": "mods/Boat-Item-View-Fabric-1.20.1-0.0.5.jar",
+              "url": "/mods/482160/4590983/Boat-Item-View-Fabric-1.20.1-0.0.5.jar"
             },
             "available": false
           },
@@ -342,17 +254,17 @@
         },
         {
           "stateGameElement": "active",
-          "id": 248787,
-          "name": "AppleSkin",
+          "id": 667391,
+          "name": "Framework (Fabric)",
           "favorite": false,
           "version": {
-            "id": 4573208,
-            "updateDate": 1686171600000,
+            "id": 4613817,
+            "updateDate": 1687956570000,
             "metadata": {
-              "sha1": "f01bcf9adbaaeb5f6b185864c0b879e8e3923991",
-              "size": 1063094,
-              "path": "mods/appleskin-fabric-mc1.20-2.5.0.jar",
-              "url": "/mods/248787/4573208/appleskin-fabric-mc1.20-2.5.0.jar"
+              "sha1": "ee725be9e788dc24d4a99e74dc848381fbd5b082",
+              "size": 506605,
+              "path": "mods/framework-fabric-1.20.1-0.6.6.jar",
+              "url": "/mods/667391/4613817/framework-fabric-1.20.1-0.6.6.jar"
             },
             "available": false
           },
@@ -364,17 +276,105 @@
         },
         {
           "stateGameElement": "active",
-          "id": 459496,
-          "name": "Indium",
+          "id": 32274,
+          "name": "JourneyMap",
           "favorite": false,
           "version": {
-            "id": 4572105,
-            "updateDate": 1686085200000,
+            "id": 4590368,
+            "updateDate": 1686862800000,
             "metadata": {
-              "sha1": "e4fe54f15bc82abdf667fc4658d3b3e7d4e02174",
-              "size": 115031,
-              "path": "mods/indium-1.0.18+mc1.20.jar",
-              "url": "/mods/459496/4572105/indium-1.0.18+mc1.20.jar"
+              "sha1": "1bad7e3eaf1ac29809bba15e9135b4804c1054a7",
+              "size": 7232945,
+              "path": "mods/journeymap-1.20.1-5.9.9-fabric.jar",
+              "url": "/mods/32274/4590368/journeymap-1.20.1-5.9.9-fabric.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 521480,
+          "name": "Skin Layers 3D (FabricForge)",
+          "favorite": false,
+          "version": {
+            "id": 4573672,
+            "updateDate": 1686171600000,
+            "metadata": {
+              "sha1": "34556f41a518682c305625a18b1bb14b4417d1b4",
+              "size": 439280,
+              "path": "mods/3dskinlayers-fabric-1.5.3-mc1.20.jar",
+              "url": "/mods/521480/4573672/3dskinlayers-fabric-1.5.3-mc1.20.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 238222,
+          "name": "Just Enough Items (JEI)",
+          "favorite": false,
+          "version": {
+            "id": 4609865,
+            "updateDate": 1687744520000,
+            "metadata": {
+              "sha1": "15666a8e850d5a2e98733e62774bca0a6f702565",
+              "size": 1138095,
+              "path": "mods/jei-1.20.1-fabric-15.2.0.22.jar",
+              "url": "/mods/238222/4609865/jei-1.20.1-fabric-15.2.0.22.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 667299,
+          "name": "YetAnotherConfigLib",
+          "favorite": false,
+          "version": {
+            "id": 4592687,
+            "updateDate": 1686949200000,
+            "metadata": {
+              "sha1": "c1c8904d658393871840d19871238416793f661b",
+              "size": 796708,
+              "path": "mods/yet-another-config-lib-fabric-3.0.2+1.20.jar",
+              "url": "/mods/667299/4592687/yet-another-config-lib-fabric-3.0.2+1.20.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 324717,
+          "name": "Jade 🔍",
+          "favorite": false,
+          "version": {
+            "id": 4614077,
+            "updateDate": 1687964977000,
+            "metadata": {
+              "sha1": "e7a4a1f3fdc55d6bff9dc6ef33bd44bc98ffb933",
+              "size": 496506,
+              "path": "mods/Jade-1.20-fabric-11.1.4.jar",
+              "url": "/mods/324717/4614077/Jade-1.20-fabric-11.1.4.jar"
             },
             "available": false
           },
@@ -430,17 +430,17 @@
         },
         {
           "stateGameElement": "active",
-          "id": 579192,
-          "name": "Farsight [Fabric]",
+          "id": 521783,
+          "name": "Starlight (Fabric)",
           "favorite": false,
           "version": {
-            "id": 4595154,
-            "updateDate": 1687035600000,
+            "id": 4572096,
+            "updateDate": 1686085200000,
             "metadata": {
-              "sha1": "fcc303ad8d7b937e175f1dec2e74f5a4bbc5389f",
-              "size": 373202,
-              "path": "mods/farsight-fabric-1.20.1-3.7.jar",
-              "url": "/mods/579192/4595154/farsight-fabric-1.20.1-3.7.jar"
+              "sha1": "a03102cab439cbab5a1d7d72cd7c2b4976ddd421",
+              "size": 127368,
+              "path": "mods/starlight-1.1.2+fabric.dbc156f.jar",
+              "url": "/mods/521783/4572096/starlight-1.1.2+fabric.dbc156f.jar"
             },
             "available": false
           },
@@ -452,17 +452,149 @@
         },
         {
           "stateGameElement": "active",
-          "id": 488090,
-          "name": "MidnightLib",
+          "id": 254284,
+          "name": "AmbientSounds 5",
           "favorite": false,
           "version": {
-            "id": 4576371,
-            "updateDate": 1686258000000,
+            "id": 4605670,
+            "updateDate": 1687534474000,
             "metadata": {
-              "sha1": "7301b84a6b0a99988ce898148a9bbd632cfe220b",
-              "size": 59752,
-              "path": "mods/midnightlib-fabric-1.4.1.jar",
-              "url": "/mods/488090/4576371/midnightlib-fabric-1.4.1.jar"
+              "sha1": "ab0590688ada9868ffb4a180f5b8da34aaccf938",
+              "size": 78577249,
+              "path": "mods/AmbientSounds_FABRIC_v5.2.20_mc1.20.1.jar",
+              "url": "/mods/254284/4605670/AmbientSounds_FABRIC_v5.2.20_mc1.20.1.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 667464,
+          "name": "Better Statistics Screen",
+          "favorite": false,
+          "version": {
+            "id": 4605150,
+            "updateDate": 1687504754000,
+            "metadata": {
+              "sha1": "f7fca4fa69cc94a5f00075699222527c280bceaf",
+              "size": 2843171,
+              "path": "mods/betterstats-2.10.2+1.20.1.jar",
+              "url": "/mods/667464/4605150/betterstats-2.10.2+1.20.1.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 448233,
+          "name": "Entity Culling FabricForge",
+          "favorite": false,
+          "version": {
+            "id": 4573623,
+            "updateDate": 1686171600000,
+            "metadata": {
+              "sha1": "cf43e7a58fb62f75d664cce1b14a6064774e6547",
+              "size": 57722,
+              "path": "mods/entityculling-fabric-1.6.2-mc1.20.jar",
+              "url": "/mods/448233/4573623/entityculling-fabric-1.6.2-mc1.20.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 308769,
+          "name": "Fabric Language Kotlin",
+          "favorite": false,
+          "version": {
+            "id": 4608620,
+            "updateDate": 1687690987000,
+            "metadata": {
+              "sha1": "3e94269eef4a0a5217a79259788521b453f40010",
+              "size": 6632587,
+              "path": "mods/fabric-language-kotlin-1.9.6+kotlin.1.8.22.jar",
+              "url": "/mods/308769/4608620/fabric-language-kotlin-1.9.6+kotlin.1.8.22.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 325471,
+          "name": "Inventory Sorting",
+          "favorite": false,
+          "version": {
+            "id": 4597704,
+            "updateDate": 1687208400000,
+            "metadata": {
+              "sha1": "19b4af69600fc940112f36a3256d492670d8d4c5",
+              "size": 222894,
+              "path": "mods/InventorySorter-1.9.0-1.20.jar",
+              "url": "/mods/325471/4597704/InventorySorter-1.9.0-1.20.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 527023,
+          "name": "Eating Animation [Fabric]",
+          "favorite": false,
+          "version": {
+            "id": 4573352,
+            "updateDate": 1686171600000,
+            "metadata": {
+              "sha1": "5afcee5d75f086d85758e975b4a5964f1166c3cd",
+              "size": 993310,
+              "path": "mods/eating-animation-1.9.4+1.20.jar",
+              "url": "/mods/527023/4573352/eating-animation-1.9.4+1.20.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 416089,
+          "name": "Simple Voice Chat",
+          "favorite": false,
+          "version": {
+            "id": 4613848,
+            "updateDate": 1687957129000,
+            "metadata": {
+              "sha1": "741bd851e41a3ae06acff9afc83bdf89ddf228b4",
+              "size": 7950333,
+              "path": "mods/voicechat-fabric-1.20.1-2.4.12.jar",
+              "url": "/mods/416089/4613848/voicechat-fabric-1.20.1-2.4.12.jar"
             },
             "available": false
           },
@@ -496,17 +628,17 @@
         },
         {
           "stateGameElement": "active",
-          "id": 535489,
-          "name": "Sound Physics Remastered",
+          "id": 393563,
+          "name": "Blur (Fabric)",
           "favorite": false,
           "version": {
-            "id": 4584319,
-            "updateDate": 1686603600000,
+            "id": 4578291,
+            "updateDate": 1686344400000,
             "metadata": {
-              "sha1": "a17a91402d2d9f39398be01b4b995d81690478a5",
-              "size": 127412,
-              "path": "mods/soundphysics-fabric-1.20.1-1.1.1.jar",
-              "url": "/mods/535489/4584319/soundphysics-fabric-1.20.1-1.1.1.jar"
+              "sha1": "3a0811af7f425daab896fbfc38898a22e7af39cf",
+              "size": 164085,
+              "path": "mods/blur-3.1.0.jar",
+              "url": "/mods/393563/4578291/blur-3.1.0.jar"
             },
             "available": false
           },
@@ -518,17 +650,17 @@
         },
         {
           "stateGameElement": "active",
-          "id": 521783,
-          "name": "Starlight (Fabric)",
+          "id": 248787,
+          "name": "AppleSkin",
           "favorite": false,
           "version": {
-            "id": 4572096,
-            "updateDate": 1686085200000,
+            "id": 4573208,
+            "updateDate": 1686171600000,
             "metadata": {
-              "sha1": "a03102cab439cbab5a1d7d72cd7c2b4976ddd421",
-              "size": 127368,
-              "path": "mods/starlight-1.1.2+fabric.dbc156f.jar",
-              "url": "/mods/521783/4572096/starlight-1.1.2+fabric.dbc156f.jar"
+              "sha1": "f01bcf9adbaaeb5f6b185864c0b879e8e3923991",
+              "size": 1063094,
+              "path": "mods/appleskin-fabric-mc1.20-2.5.0.jar",
+              "url": "/mods/248787/4573208/appleskin-fabric-mc1.20-2.5.0.jar"
             },
             "available": false
           },
@@ -584,149 +716,17 @@
         },
         {
           "stateGameElement": "active",
-          "id": 308769,
-          "name": "Fabric Language Kotlin",
+          "id": 459496,
+          "name": "Indium",
           "favorite": false,
           "version": {
-            "id": 4608620,
-            "updateDate": 1687690987000,
+            "id": 4572105,
+            "updateDate": 1686085200000,
             "metadata": {
-              "sha1": "3e94269eef4a0a5217a79259788521b453f40010",
-              "size": 6632587,
-              "path": "mods/fabric-language-kotlin-1.9.6+kotlin.1.8.22.jar",
-              "url": "/mods/308769/4608620/fabric-language-kotlin-1.9.6+kotlin.1.8.22.jar"
-            },
-            "available": false
-          },
-          "userInstall": false,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 667464,
-          "name": "Better Statistics Screen",
-          "favorite": false,
-          "version": {
-            "id": 4605150,
-            "updateDate": 1687504754000,
-            "metadata": {
-              "sha1": "f7fca4fa69cc94a5f00075699222527c280bceaf",
-              "size": 2843171,
-              "path": "mods/betterstats-2.10.2+1.20.1.jar",
-              "url": "/mods/667464/4605150/betterstats-2.10.2+1.20.1.jar"
-            },
-            "available": false
-          },
-          "userInstall": false,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 324717,
-          "name": "Jade 🔍",
-          "favorite": false,
-          "version": {
-            "id": 4614077,
-            "updateDate": 1687964977000,
-            "metadata": {
-              "sha1": "e7a4a1f3fdc55d6bff9dc6ef33bd44bc98ffb933",
-              "size": 496506,
-              "path": "mods/Jade-1.20-fabric-11.1.4.jar",
-              "url": "/mods/324717/4614077/Jade-1.20-fabric-11.1.4.jar"
-            },
-            "available": false
-          },
-          "userInstall": false,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 32274,
-          "name": "JourneyMap",
-          "favorite": false,
-          "version": {
-            "id": 4590368,
-            "updateDate": 1686862800000,
-            "metadata": {
-              "sha1": "1bad7e3eaf1ac29809bba15e9135b4804c1054a7",
-              "size": 7232945,
-              "path": "mods/journeymap-1.20.1-5.9.9-fabric.jar",
-              "url": "/mods/32274/4590368/journeymap-1.20.1-5.9.9-fabric.jar"
-            },
-            "available": false
-          },
-          "userInstall": false,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 238222,
-          "name": "Just Enough Items (JEI)",
-          "favorite": false,
-          "version": {
-            "id": 4609865,
-            "updateDate": 1687744520000,
-            "metadata": {
-              "sha1": "15666a8e850d5a2e98733e62774bca0a6f702565",
-              "size": 1138095,
-              "path": "mods/jei-1.20.1-fabric-15.2.0.22.jar",
-              "url": "/mods/238222/4609865/jei-1.20.1-fabric-15.2.0.22.jar"
-            },
-            "available": false
-          },
-          "userInstall": false,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 527023,
-          "name": "Eating Animation [Fabric]",
-          "favorite": false,
-          "version": {
-            "id": 4573352,
-            "updateDate": 1686171600000,
-            "metadata": {
-              "sha1": "5afcee5d75f086d85758e975b4a5964f1166c3cd",
-              "size": 993310,
-              "path": "mods/eating-animation-1.9.4+1.20.jar",
-              "url": "/mods/527023/4573352/eating-animation-1.9.4+1.20.jar"
-            },
-            "available": false
-          },
-          "userInstall": false,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 482160,
-          "name": "Boat Item View",
-          "favorite": false,
-          "version": {
-            "id": 4590983,
-            "updateDate": 1686862800000,
-            "metadata": {
-              "sha1": "c71b4fa8fd4ca580f39f94f278c1864c3befca51",
-              "size": 1031662,
-              "path": "mods/Boat-Item-View-Fabric-1.20.1-0.0.5.jar",
-              "url": "/mods/482160/4590983/Boat-Item-View-Fabric-1.20.1-0.0.5.jar"
+              "sha1": "e4fe54f15bc82abdf667fc4658d3b3e7d4e02174",
+              "size": 115031,
+              "path": "mods/indium-1.0.18+mc1.20.jar",
+              "url": "/mods/459496/4572105/indium-1.0.18+mc1.20.jar"
             },
             "available": false
           },
@@ -760,17 +760,17 @@
         },
         {
           "stateGameElement": "active",
-          "id": 416089,
-          "name": "Simple Voice Chat",
+          "id": 348521,
+          "name": "Cloth Config API (FabricForgeNeoForge)",
           "favorite": false,
           "version": {
-            "id": 4613848,
-            "updateDate": 1687957129000,
+            "id": 4573053,
+            "updateDate": 1686171600000,
             "metadata": {
-              "sha1": "741bd851e41a3ae06acff9afc83bdf89ddf228b4",
-              "size": 7950333,
-              "path": "mods/voicechat-fabric-1.20.1-2.4.12.jar",
-              "url": "/mods/416089/4613848/voicechat-fabric-1.20.1-2.4.12.jar"
+              "sha1": "338b0968fb47460f2a1fc2d003d3f2a32d1b0c31",
+              "size": 1147729,
+              "path": "mods/cloth-config-11.0.99-fabric.jar",
+              "url": "/mods/348521/4573053/cloth-config-11.0.99-fabric.jar"
             },
             "available": false
           },
@@ -782,17 +782,17 @@
         },
         {
           "stateGameElement": "active",
-          "id": 531351,
-          "name": "Continuity",
+          "id": 454372,
+          "name": "SuperMartijn642's Core Lib",
           "favorite": false,
           "version": {
-            "id": 4580976,
-            "updateDate": 1686430800000,
+            "id": 4573602,
+            "updateDate": 1686171600000,
             "metadata": {
-              "sha1": "c5157819671612384834730a877eec5c484b5cf9",
-              "size": 1143994,
-              "path": "mods/continuity-3.0.0-beta.2+1.20.jar",
-              "url": "/mods/531351/4580976/continuity-3.0.0-beta.2+1.20.jar"
+              "sha1": "5f91cb72bc1af6936c9f9d12227302a684b9525a",
+              "size": 506204,
+              "path": "mods/supermartijn642corelib-1.1.9-fabric-mc1.20.jar",
+              "url": "/mods/454372/4573602/supermartijn642corelib-1.1.9-fabric-mc1.20.jar"
             },
             "available": false
           },
@@ -804,17 +804,17 @@
         },
         {
           "stateGameElement": "active",
-          "id": 546670,
-          "name": "Essential Mod",
+          "id": 623800,
+          "name": "Dynamic Crosshair",
           "favorite": false,
           "version": {
-            "id": 4582788,
-            "updateDate": 1686517200000,
+            "id": 4576177,
+            "updateDate": 1686258000000,
             "metadata": {
-              "sha1": "243cc09af5c0c0303ef197021e866eff281b1667",
-              "size": 251130,
-              "path": "mods/Essential-fabric_1-20-1.jar",
-              "url": "/mods/546670/4582788/Essential-fabric_1-20-1.jar"
+              "sha1": "a8c3feacafba7ac3bc793332fd72191e9a0abcce",
+              "size": 339684,
+              "path": "mods/dynamiccrosshair-7.0.2+1.20-fabric.jar",
+              "url": "/mods/623800/4576177/dynamiccrosshair-7.0.2+1.20-fabric.jar"
             },
             "available": false
           },
@@ -828,28 +828,6 @@
       "resourcePacks": [
         {
           "stateGameElement": "active",
-          "id": 440897,
-          "name": "Faithless",
-          "favorite": false,
-          "version": {
-            "id": 4603521,
-            "updateDate": 1687464352000,
-            "metadata": {
-              "sha1": "7c4ee7fb21d1e5eda7881f5bf41da937fedee07f",
-              "size": 21330714,
-              "path": "resourcepacks/Faithless1.20.zip",
-              "url": "/resourcepacks/440897/4603521/Faithless1.20.zip"
-            },
-            "available": false
-          },
-          "userInstall": false,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
           "id": 698096,
           "name": "Reimagined Gui (Dark)",
           "favorite": false,
@@ -861,6 +839,28 @@
               "size": 8608119,
               "path": "resourcepacks/ReimaginedGUI(Dark)+1.20.zip",
               "url": "/resourcepacks/698096/4584004/ReimaginedGUI(Dark)+1.20.zip"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 440897,
+          "name": "Faithless",
+          "favorite": false,
+          "version": {
+            "id": 4603521,
+            "updateDate": 1687464352000,
+            "metadata": {
+              "sha1": "7c4ee7fb21d1e5eda7881f5bf41da937fedee07f",
+              "size": 21330714,
+              "path": "resourcepacks/Faithless1.20.zip",
+              "url": "/resourcepacks/440897/4603521/Faithless1.20.zip"
             },
             "available": false
           },
