@@ -31,7 +31,7 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:1.0
-renderDistance:6
+renderDistance:14
 simulationDistance:6
 entityDistanceScaling:1.0
 guiScale:2
@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","file/Faithless1.20.zip"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","black_icons","classic_icons","file/Faithless1.20.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:vi_vn
@@ -173,7 +173,7 @@ key_keybind.name.EMOTE_SLOT_6:key.keyboard.unknown
 key_keybind.name.EMOTE_SLOT_7:key.keyboard.unknown
 key_keybind.name.EMOTE_SLOT_8:key.keyboard.unknown
 key_keybind.name.ZOOM:key.keyboard.c
-soundCategory_master:1.0
+soundCategory_master:0.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
