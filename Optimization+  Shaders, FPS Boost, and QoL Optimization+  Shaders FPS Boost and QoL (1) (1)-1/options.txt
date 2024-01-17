@@ -1,5 +1,5 @@
 version:3465
-autoJump:true
+autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
 chatColors:true
@@ -31,7 +31,7 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:1.0
-renderDistance:8
+renderDistance:12
 simulationDistance:6
 entityDistanceScaling:1.0
 guiScale:2
